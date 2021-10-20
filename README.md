@@ -1,19 +1,19 @@
-# AI-BOT (v1.0.0)
+# 🤖AI-BOT (v1.0.0)
 
 * código usa [discord.js](https://npmjs.org/discord.js) e `alexa-bot-api`(0.0.8)
 
 (NAO USE DISCORD.JS V13)
 
-### CREDITS:
+### 🌲CREDITS:
 
 * original code: [click](https://youtu.be/4MgrPu6n1Y8) !
 * este código apenas ultiliza a __base__ do *vídeo* !
 
-### Requisitos:
+### 🌐Requisitos:
 
 * [nodejs](https://nodejs.org/)
 
-### Iniciando:
+### 🏠Iniciando:
 
 * em [/source/config.json](/source/config.json) coloque o *token* do seu bot.
 
@@ -25,10 +25,12 @@ e depois:
 
 `node index.js`
 
-### Resultado:
+### 🔒Resultado:
 
 * logs:
 ```
 servidor inicializado na porta 8080
 [INFO]: bot inicializado
 ```
+### 🖥 Dev Area
+* Run: [testar](trollgames.run.node-cdn.ga/v2/run/ai-bot/)
