@@ -33,4 +33,4 @@ servidor inicializado na porta 8080
 [INFO]: bot inicializado
 ```
 ### 🖥 Dev Area
-* Run: [testar](trollgames.run.node-cdn.ga/v2/run/ai-bot/)
+* Run: [testar](https://trollgames.run.node-cdn.ga/v2/run/ai-bot/)
