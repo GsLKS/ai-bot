@@ -1,0 +1,30 @@
+{
+  "name": "ai-bot",
+  "version": "1.0.0",
+  "description": "um bot de inteligencia artificial com discord.js",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/trollgamesgg/ai-bot.git"
+  },
+  "keywords": [
+    "ai",
+    "ia",
+    "discord.js",
+    "ai-bot",
+    "ia-bot"
+  ],
+  "author": "TROLLGAMES#9005",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/trollgamesgg/ai-bot/issues"
+  },
+  "homepage": "https://github.com/trollgamesgg/ai-bot#readme",
+  "dependencies": {
+    "alexa-bot-api": "^0.0.8",
+    "discord.js": "^12.5.3"
+  }
+}
