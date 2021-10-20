@@ -2,6 +2,8 @@
 
 * código usa [discord.js](https://npmjs.org/discord.js) e `alexa-bot-api`(0.0.8)
 
+(NAO USE DISCORD.JS V13)
+
 ### CREDITS:
 
 * original code: [click](https://youtu.be/4MgrPu6n1Y8) !
