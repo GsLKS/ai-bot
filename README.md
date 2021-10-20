@@ -7,7 +7,7 @@
 * original code: [click](https://youtu.be/4MgrPu6n1Y8) !
 * este código apenas ultiliza a __base__ do *vídeo* !
 
-### Requisitos:nodr
+### Requisitos:
 
 * [nodejs](https://nodejs.org/)
 
@@ -18,7 +18,9 @@
 * em seu *terminal* digite:
 
 `npm install --no-bin-links`
+
 e depois:
+
 `node index.js`
 
 ### Resultado:
